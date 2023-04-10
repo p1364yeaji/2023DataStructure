@@ -24,7 +24,10 @@
     <ClCompile Include="HW4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HW5.cpp">
+    <ClCompile Include="HW06-1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW5\HW5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
