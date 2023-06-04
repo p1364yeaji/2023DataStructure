@@ -5,9 +5,8 @@
 
 
 ## 1. Bubble sorting
-
-![Notes_230604_164326_1-1](https://github.com/p1364yeaji/2023DataStructure/assets/126933499/56a9cef1-2e1a-4bd3-a4e4-2134b16eb4d5)
-![Notes_230604_164326_1](https://github.com/p1364yeaji/2023DataStructure/assets/126933499/98fbed1d-b572-4fff-bd75-23d0b0c16798)
+<img width="420" alt="1-1" src="https://github.com/p1364yeaji/2023DataStructure/assets/126933499/56a9cef1-2e1a-4bd3-a4e4-2134b16eb4d5">
+<img width="420" alt="1-2" src="https://github.com/p1364yeaji/2023DataStructure/assets/126933499/98fbed1d-b572-4fff-bd75-23d0b0c16798">
 
 ## 2. Selection sorting
 
